@@ -52,21 +52,9 @@ export ROS_HOSTNAME={IP_ADDRESS_OF_REMOTE_PC}
  source ~/.bashrc
 ```
 ### In Pi4
-1 Chack your pi4 ip
-```
-ifconfig
-```
-2 Edit your .bashrc file
-```
-nano ~/.bashrc
-```
-3 Find the ROS_MASTER_URI and ROS_HOSTNAME setting section, then modify the IP adddresses accordingly
+make like pc
+but chaing  ROS_HOSTNAM is Pi4 ip
 ```
 export ROS_MASTER_URI=http://{IP_ADDRESS_OF_REMOTE_PC}:11311
-export ROS_HOSTNAME={IP_ADDRESS_OF_RASPBERRY_PI_4}
-```
-4 Save the file with Ctrl + S and exit the nano editor with Ctrl + X.
-5 Apply changes with the command below.
-```
- source ~/.bashrc
+export ROS_HOSTNAME={IP_ADDRESS_OF_PI4}
 ```
