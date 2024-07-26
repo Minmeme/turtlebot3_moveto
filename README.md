@@ -2,14 +2,14 @@
 this package for turtlebot3 ros noetic.
 
 ## About Turlebot3 
- documentation  [Turlebot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup)].
+ documentation  [Turlebot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup).
 
  > [!NOTE]
 >  i use Raspberry Pi 4 4GB
 >  Set up your turlebot3 for ros noeic
 
 ## About Pc
- install [Ros Noetic]((https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup)](https://wiki.ros.org/noetic/Installation/Ubuntu)).
+ install [Ros Noetic](https://wiki.ros.org/noetic/Installation/Ubuntu).
  
  Install Dependent ROS Packages
 ```
