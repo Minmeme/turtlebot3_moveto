@@ -2,7 +2,7 @@
 this package for turtlebot3 ros noetic.
 
 ## About Turlebot3 
- documentation  [Turlebot3](https://pages.github.com/](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup)).
+ documentation  [Turlebot3]([https://pages.github.com/](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup)](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup)).
 
  > [!NOTE]
 >  i use Raspberry Pi 4 4GB
