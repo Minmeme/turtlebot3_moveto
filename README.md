@@ -9,7 +9,9 @@ this package for turtlebot3 ros noetic.
 >  Set up your turlebot3 for ros noeic
 
 ## About Pc
- install Ros noetic [Ros Noetic](https://pages.github.com/](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup)](https://wiki.ros.org/noetic/Installation/Ubuntu)).
+ install [Ros Noetic](https://pages.github.com/](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup)](https://wiki.ros.org/noetic/Installation/Ubuntu)).
+ > [!NOTE]
+>  plz install ros-noetic-desktop-full
  
 ### Install Dependent ROS Packages
 ```
@@ -28,6 +30,4 @@ sudo apt install ros-noetic-dynamixel-sdk
 sudo apt install ros-noetic-turtlebot3-msgs
 sudo apt install ros-noetic-turtlebot3
 ```
-> [!NOTE]
->  plz install ros-noetic-desktop-full
 
