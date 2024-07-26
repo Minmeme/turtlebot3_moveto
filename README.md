@@ -58,3 +58,5 @@ but chaing  ROS_HOSTNAM is Pi4 ip
 export ROS_MASTER_URI=http://{IP_ADDRESS_OF_REMOTE_PC}:11311
 export ROS_HOSTNAME={IP_ADDRESS_OF_PI4}
 ```
+ > [!NOTE]
+>  This is done so that the computer and robot are on the same network. and dont forget make PC and robot connect the same wifi.
