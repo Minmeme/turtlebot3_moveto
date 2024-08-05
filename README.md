@@ -9,7 +9,7 @@ source code : https://github.com/ThitipongTh/turtlebot3_movetogoal
 >  i use Raspberry Pi 4 4GB
 >  Set up your turlebot3 for ros noeic
 
-## About Pc
+## About Ros Noetic
  install [Ros Noetic](https://wiki.ros.org/noetic/Installation/Ubuntu).
  
  Install Dependent ROS Packages
@@ -25,7 +25,8 @@ sudo apt-get install ros-noetic-joy ros-noetic-teleop-twist-joy \
 ```
 
  > [!NOTE]
->  plz install ros-noetic-desktop-full 
+>  install ros-noetic-desktop-full in PC
+>  install ros-noetic-ros-base in pi4
 
 ## install turtlebot3 packages
   Create a catkin workspace
