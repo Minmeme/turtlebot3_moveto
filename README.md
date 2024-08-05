@@ -1,5 +1,5 @@
 # turtlebot3_moveto
-this package for turtlebot3 ros noetic.
+this package for turtlebot3 ros noetic. and use pac9685
 
 source code : https://github.com/ThitipongTh/turtlebot3_movetogoal
 ## About Turlebot3 
