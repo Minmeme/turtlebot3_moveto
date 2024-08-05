@@ -25,7 +25,7 @@ sudo apt-get install ros-noetic-joy ros-noetic-teleop-twist-joy \
 ```
 
  > [!NOTE]
->  plz install ros-noetic-desktop-full
+>  plz install ros-noetic-desktop-full 
 
 ## install turtlebot3 packages
   Create a catkin workspace
@@ -81,3 +81,11 @@ export ROS_HOSTNAME={IP_ADDRESS_OF_PI4}
 ```
  > [!NOTE]
 >  This is done so that the computer and robot are on the same network. and dont forget make PC and robot connect the same wifi.
+
+## Install my package
+```
+cd <catkin_ws>/src
+git clone https://github.com/aims-lab-kmitl/turtlebot3_movetogoal.git
+cd <catkin_ws>
+catkin_make
+```
