@@ -42,8 +42,6 @@ source ~/.bashrc
 Install TurtleBot3 packages
 ```
 git clone https://github.com/ROBOTIS-GIT/turtlebot3.git ~/catkin_ws/src/turtlebot3
-git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git ~/catkin_ws/src/turtlebot3_msgs
-git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git ~/catkin_ws/src/turtlebot3_simulations
 ```
 After cloning the repositories, don't forget to build your workspace:
 ```
