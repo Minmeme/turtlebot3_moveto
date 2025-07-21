@@ -80,11 +80,3 @@ export ROS_HOSTNAME={IP_ADDRESS_OF_PI4}
 ```
  > [!NOTE]
 >  This is done so that the computer and robot are on the same network. and dont forget make PC and robot connect the same wifi.
-
-## Install my package
-```
-cd <catkin_ws>/src
-git clone https://github.com/aims-lab-kmitl/turtlebot3_movetogoal.git
-cd <catkin_ws>
-catkin_make
-```
