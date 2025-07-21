@@ -1,7 +1,6 @@
 # turtlebot3_moveto
 this package for turtlebot3 ros noetic. and use pac9685
 
-source code : https://github.com/ThitipongTh/turtlebot3_movetogoal
 ## About Turlebot3 
  documentation  [Turlebot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup).
 
